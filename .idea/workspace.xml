@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aec2a6dd-8fe5-4d56-8f80-34421cae6cc4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1XDI88eLakNDA3uOHO3MwuBmSs4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aec2a6dd-8fe5-4d56-8f80-34421cae6cc4" name="Default Changelist" comment="" />
+      <created>1580574075908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580574075908</updated>
+      <workItem from="1580574078613" duration="6348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="468" y="36" width="476" height="720" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580595037892">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="468" y="36" width="476" height="720" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1299.741@67.27.1299.741" timestamp="1580595037892" />
+    <state x="510" y="179" width="417" height="373" key="NewPhpClassDialog" timestamp="1580595011188">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="510" y="179" width="417" height="373" key="NewPhpClassDialog/67.27.1299.741@67.27.1299.741" timestamp="1580595011188" />
+    <state x="512" y="322" width="399" height="149" key="NewPhpFileDialog" timestamp="1580574086963">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="512" y="322" width="399" height="149" key="NewPhpFileDialog/67.27.1299.741@67.27.1299.741" timestamp="1580574086963" />
+  </component>
+</project>
